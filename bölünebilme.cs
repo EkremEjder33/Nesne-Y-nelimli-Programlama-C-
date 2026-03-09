@@ -1,4 +1,3 @@
-// Klavyeden girilen a sayısının yine klavyeden girilen b sayısına tam bölünüp bölünmediğini bulan kodu c# ile kodlayınız.
 using System;
 class Program
 {
